@@ -29,5 +29,5 @@ The system simulates real-world order processing times with a random delay, addi
 
 Feel free to explore the system and have a delightful ordering experience at Mc'Donals!
 
-![Mc'Donals Logo](link-to-your-logo-image.png)
+
 
